@@ -1,0 +1,15 @@
+CLI started
+
+=== ORDER REQUEST SUMMARY ===
+Symbol: BTCUSDT
+Side: BUY
+Type: MARKET
+Quantity: 0.01
+
+=== ORDER RESPONSE ===
+Order ID: 123456789
+Status: FILLED
+Executed Qty: 0.01
+Avg Price: 59875.21
+
+✅ Order placed successfully!
