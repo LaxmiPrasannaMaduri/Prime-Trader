@@ -1,0 +1,16 @@
+CLI started
+
+=== ORDER REQUEST SUMMARY ===
+Symbol: BTCUSDT
+Side: SELL
+Type: LIMIT
+Quantity: 0.01
+Price: 60000.0
+
+=== ORDER RESPONSE ===
+Order ID: 123456999
+Status: NEW
+Executed Qty: 0.00
+Avg Price: 0.00
+
+✅ Order placed successfully!
