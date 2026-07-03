@@ -1,7 +1,7 @@
 2026-02-19 16:54:16,246 - INFO - trading_bot - Placing order: BTCUSDT BUY MARKET 0.01 None
 2026-02-19 16:54:16,246 - ERROR - trading_bot - Order failed: API Secret required for private endpoints
 2026-02-19 16:54:16,247 - ERROR - root - Execution failed
-Traceback (most recent call last):
+Traceback (most recent call last): 
   File "cli.py", line 46, in main
     response = service.create_order(
   File "C:\prime_trader\bot\orders.py", line 24, in create_order
