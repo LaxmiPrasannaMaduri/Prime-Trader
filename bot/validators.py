@@ -2,7 +2,7 @@ def validate_side(side: str):
     if side.upper() not in ["BUY", "SELL"]:
         raise ValueError("Side must be BUY or SELL")
     return side.upper()
-
+#validator
 
 def validate_order_type(order_type: str):
     if order_type.upper() not in ["MARKET", "LIMIT"]:
