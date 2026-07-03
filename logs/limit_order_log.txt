@@ -1,5 +1,6 @@
 CLI started
 
+
 === ORDER REQUEST SUMMARY ===
 Symbol: BTCUSDT
 Side: SELL
