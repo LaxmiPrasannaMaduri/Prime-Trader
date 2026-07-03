@@ -1,5 +1,6 @@
 import argparse
 import logging
+
 from bot.binance_client import BinanceFuturesClient
 from bot.orders import OrderService
 from bot.validators import (
