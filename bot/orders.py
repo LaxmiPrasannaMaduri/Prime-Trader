@@ -5,7 +5,6 @@ logger = logging.getLogger("trading_bot")
 class OrderService:
     def __init__(self, client):
         self.client = client
-
     def create_order(self, symbol, side, order_type, quantity, price=None):
         try:
             logger.info(f"Placing order: {symbol} {side} {order_type} {quantity} {price}")
