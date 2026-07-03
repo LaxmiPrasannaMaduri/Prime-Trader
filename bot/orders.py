@@ -9,6 +9,7 @@ class OrderService:
         try:
             logger.info(f"Placing order: {symbol} {side} {order_type} {quantity} {price}")
 
+            
             params = {
                 "symbol": symbol,
                 "side": side,
